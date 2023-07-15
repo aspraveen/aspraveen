@@ -1,5 +1,5 @@
-- 👋 Hello, I'm Praveen and I work as a software engineer as well as a technical consultant. Since Y2K, I have worked on several projects focusing on business improvements, customer service and value delivery.
-- Cloud Computing and experimenting with new technology are two things I am passionate about. Although, I've worked with different technologies over my career. Presently, my focus is on JAMstack especially NodeJS, ReactJS, NextJS and Prisma.
+- Since the year 2000 (the dot-com era), I have worked on many web and e-commerce projects. My primary technological stack includes Python, PHP, MySQL, Oracle, and PostgreSQL. I am a big fan of Laravel since I started working with it. I have also worked with ASP.NET C# and SQL Server for a few clients.
+- Currently, my main focus is helping companies and enterprises develop, implement, and manage their cloud architecture.
 - 📫 visit me on https://pixeldigit.com
 
 <!---
