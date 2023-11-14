@@ -1,5 +1,4 @@
-- Since the year 2000 (the dot-com era), I have worked on many web and e-commerce projects. My primary technological stack includes Python, PHP, MySQL, Oracle, and PostgreSQL. I am a big fan of Laravel since I started working with it. I have also worked with ASP.NET C# and SQL Server for a few clients.
-- Currently, my main focus is helping companies and enterprises develop, implement, and manage their cloud architecture.
+- Since the turn of the millennium, during the dot-com era, I have been actively involved in numerous web and e-commerce projects. My core technology stack comprises Python, PHP, MySQL, Oracle, and PostgreSQL. I developed a strong affinity for Laravel since my initial engagement with the framework. Furthermore, I've gained experience in utilizing ASP.NET C# and SQL Server for select projects.
 - 📫 visit me on https://pixeldigit.com
 
 <!---
